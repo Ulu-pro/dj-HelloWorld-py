@@ -4,6 +4,7 @@ You should be create a dir with name "helloworld" and move Files and Directories
 ### Open Home directory in shell (cmd, bash) and type:
   For install Django:
     <code>python -m pip install Django</code>
-<hr>
+<br>
   For run the Project:
     <code>python manage.py runserver</code>
+<hr><a href="https://www.djangoproject.com/">Web-site of Django</a>
